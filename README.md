@@ -6,3 +6,4 @@ Contenidos:
 
 - [Plantilla de proyecto](https://github.com/mgea/ideapolis/blob/main/plantilla.md) 
 
+estamso mododificando el prioyecto hoy martes
