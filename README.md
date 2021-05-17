@@ -12,9 +12,9 @@ Espacio colaborativo y de publicación de proyectos de Inteligencia Colectiva y 
 
 2021 - [Lambo](https://github.com/daniprototype/ideapolis/blob/main/Lambo.md) de MGTPN-Granada
 
-2021 - [CIORAMCA ZEN](https://github.com/DMecam/cioramca-zen) 
+2021 - [CIORAMCA ZEN](https://github.com/DMecam/cioramca-zen) de MGTPN-Granada
 
-2021 - [Time for Life](https://github.com/ceciliaml/ideapolis/blob/23ddbbb763003bfe753c0260f110fe539e8f2dae/TIMEforLIFE.md)
+2021 - [Time for Life](https://github.com/ceciliaml/ideapolis/blob/23ddbbb763003bfe753c0260f110fe539e8f2dae/TIMEforLIFE.md) de MGTPN-Granada
 
 
 2021 - [Escape - travel blog](https://github.com/danielangeles29/ideapolis) de MGTPN-Melilla 
