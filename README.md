@@ -9,6 +9,10 @@ Espacio colaborativo y de publicación de proyectos de Inteligencia Colectiva y 
 
 ## Proyectos previos: 
 
+2022 - [Emotion Flights](https://github.com/moih96/emotionFlights/) de de MGTPN2 (SemiPresencial) Granada
+
+2022 - [Exchange World](https://github.com/davidgarcia2411/ProyectoFinal/) de de MGTPN2 (SemiPresencial) Granada
+
 
 2021 - [Lambo](https://github.com/daniprototype/ideapolis/blob/main/Lambo.md) de MGTPN-Granada
 
