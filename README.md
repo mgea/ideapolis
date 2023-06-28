@@ -13,9 +13,9 @@ Espacio colaborativo y de publicación de proyectos de Inteligencia Colectiva y 
 
 2023 - [Raviis](https://github.com/Virbaca/Raviis2) 
 
-2023 - [Musitopía](https://github.com/dobleinnova/ideapolis/blob/main/README_1.md) 
+2023 - [Musitopía](https://github.com/dobleinnova/ideapolis/blob/main/README_1.md)  de MGTPN2 (SemiPresencial) Granada
 
-2022 - [Emotion Flights](https://github.com/moih96/emotionFlights/) de de MGTPN2 (SemiPresencial) Granada
+2022 - [Emotion Flights](https://github.com/moih96/emotionFlights/) de MGTPN2 (SemiPresencial) Granada
 
 2022 - [Exchange World](https://github.com/davidgarcia2411/ProyectoFinal/) de de MGTPN2 (SemiPresencial) Granada
 
