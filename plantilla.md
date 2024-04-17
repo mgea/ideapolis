@@ -33,9 +33,23 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 * Twitter 
 * ... 
 
+----
+
+### ¿Quiénes somos?
 
 
---- 
+### Misión
+
+
+
+#### Vision
+
+
+
+
+
+
+----- 
 
 ### Metodología
 
@@ -45,6 +59,8 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
+**¿Como surge el proyecto?**
+
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
 * @LadyDistopia (link) ...¿ por qué ?
@@ -52,14 +68,14 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 * 
 
 
-**Necesidad/oportunidad** 
+#### Necesidad/oportunidad
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+#### Motivación de la propuesta
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+¿ por qué consideras interesante ? 
 
-
-
+#### Personas/Usuarios
+(...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
 
 ### Etapa 2: Prototipar / productos 
@@ -78,10 +94,11 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
+#### Test con usuarios (...) 
 
 
+
+#### Preguntas frecuentes
 
 
 
