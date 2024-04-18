@@ -7,6 +7,9 @@ Espacio colaborativo y de publicación de proyectos de Inteligencia Colectiva y 
 - [Plantilla de proyecto](https://github.com/mgea/ideapolis/blob/main/plantilla.md) 
 
 
+![imagen](2.png)
+
+
 ## Proyectos previos: 
 
 2023 - [Origenes Diversos](https://github.com/htornel/origenes-diversos)
