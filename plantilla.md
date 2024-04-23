@@ -1,4 +1,4 @@
-## (VoyageVenture)  
+  ## (VoyageVenture)  
 
 (Plantilla para la creación de un proyecto en ideapolis)
 
@@ -16,7 +16,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Resumen** : ____Voyage Venture es una comunidad online dinámica diseñada para inspirar y conectar a viajeros de todo el mundo. En este espacio, los miembros comparten experiencias personales, descubrimientos culturales y consejos prácticos a través de storytelling, contenido multimedia y podcasts. La plataforma fomenta la interacción mediante chats en tiempo real y foros, rompiendo barreras y miedos hacia lo desconocido. Únete a Voyage Venture para explorar, aprender y crecer en un entorno vibrante y multicultural._Pretendemos aportar innovación a este ambiente aplicando la tecnología de realidad virtual para ofrecer experiencias únicas y sorprendentes a nuestros usuarios.____
 
-**logotipo** :  ________
+**logotipo** : [OurLogo] ( ______C:\Users\AHLAM\Downloads\LogoVoyageVenture.jpeg)__
 
 ! [logo](LogoVoyageVenture)
 **Slogan** (frase motivadora/inspiradora): _____"Explora, Sueña, Viaja: Donde los Sueños se Hacen Destinos."___
