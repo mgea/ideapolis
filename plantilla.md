@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## (VoyageVenture)  
 
 (Plantilla para la creación de un proyecto en ideapolis)
 
@@ -10,23 +10,24 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : ___VoyageVenture____
 
-**Autor(es)** ______________
+**Autor(es)** ___Ahlam Haya_, Melania, ALvaro Vasquez__________
 
-**Resumen** : _________
+**Resumen** : ____Voyage Venture es una comunidad online dinámica diseñada para inspirar y conectar a viajeros de todo el mundo. En este espacio, los miembros comparten experiencias personales, descubrimientos culturales y consejos prácticos a través de storytelling, contenido multimedia y podcasts. La plataforma fomenta la interacción mediante chats en tiempo real y foros, rompiendo barreras y miedos hacia lo desconocido. Únete a Voyage Venture para explorar, aprender y crecer en un entorno vibrante y multicultural._Pretendemos aportar innovación a este ambiente aplicando la tecnología de realidad virtual para ofrecer experiencias únicas y sorprendentes a nuestros usuarios.____
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+! [logo](LogoVoyageVenture)
+**Slogan** (frase motivadora/inspiradora): _____"Explora, Sueña, Viaja: Donde los Sueños se Hacen Destinos."___
 
-**Hashtag**  ___
+**Hashtag**  _#TripInspiration #NomadicSpirits #CultureDiscovery #PassportAdventures #WanderlustVibes  #SeeTheWorld__
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : 202X
 
-**Medios** (donde se tiene presencia): 
+**Medios** (donde se tiene presencia): Instagram, TikTok, Twitter, Pinterest, Facebook
 
 
 *  :octocat: (github url) 
@@ -35,14 +36,15 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
-### ¿Quiénes somos?
-
-
-### Misión
+### ¿Quiénes somos? Una comunidad apasionada que pretende crear un eje central digital para los amantes de los viajes y animarles a compartir sus experiencias y guías en función de sus vivencias pasadas, para que otros miembros de la comunidad puedan beneficiarse de sus opiniones y echar un vistazo a otras culturas y destinos.
 
 
 
-#### Vision
+### Misión Nos comprometemos a ofrecer experiencias inolvidables y servicios de alta calidad que superen las expectativas de nuestros clientes. Nos esforzamos por crear conexiones significativas entre las personas y los destinos, facilitando viajes memorables que enriquezcan la vida de nuestros clientes
+
+
+
+#### Vision Nos visualizamos como líderes en la industria de viajes, reconocidos por nuestra excelencia en servicio al cliente, nuestra innovación constante y nuestro compromiso con la sostenibilidad. Aspiramos a ser la opción preferida de viajes para aquellos que buscan aventura, comodidad y autenticidad en cada experiencia que ofrecemos. Además, nos esforzamos por expandir nuestra presencia global, conectando a personas de todo el mundo con los destinos más inspiradores del planeta
 
 
 
