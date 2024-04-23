@@ -27,7 +27,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Fecha** : 202X
 
-**Medios** (donde se tiene presencia): Instagram, TikTok, Twitter, Pinterest, Facebook
+**Medios** (donde se tiene presencia): Instagram, TikTok, Twitter, Pinterest, Facebook, website, reedit
 
 
 *  :octocat: (github url) 
