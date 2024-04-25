@@ -11,7 +11,7 @@ Espacio colaborativo y de publicación de proyectos de Inteligencia Colectiva y 
 
 2024 - [VoyageVenture](https://github.com/Ahlamhaya/ideapolis)
 
-2024 - 
+2024 - [Viajar con lo justo](https://github.com/SebaNBA/ideapolis)
 
 
 
