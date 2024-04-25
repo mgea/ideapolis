@@ -7,6 +7,11 @@ Espacio colaborativo y de publicación de proyectos de Inteligencia Colectiva y 
 - [Plantilla de proyecto](https://github.com/mgea/ideapolis/blob/main/plantilla.md) 
 
 
+2024 - [Sin Tapujos](https://github.com/Hitacelia/sintapujos)
+
+2024 - [VoyageVenture](https://github.com/Ahlamhaya/ideapolis)
+
+2024 - 
 
 
 
