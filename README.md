@@ -64,23 +64,38 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
 **¿Como surge el proyecto?**
+Después de que tres personas con diferentes orígenes y de diferentes países se han reunido alrededor de la misma mesa y han hecho un brainstoming y una sesión de mapa de empatía para poner de relieve las cosas que pueden tener en común, independientemente de las diferencias de sus aspiraciones, la cultura y la mentalidad, una idea bajo el nombre de 'voyage venture' surgió porque los tres nos encanta viajar y hemos sido capaces de distinguir todos los principales obstáculos y temores que enfrentamos al querer elegir un destino de viaje o hacer un plan de viaje, estos principales miedos y obstáculos fueron el impulso para este proyecto, ya que queremos eliminar factores como la falta de conocimiento sobre otros países y culturas y cómo es el destino realmente y qué esperar, todo esto mediante la creación de una comunidad global en línea para servir como un centro de viajes para todas las personas en todo el mundo, animamos a la gente a compartir sus experiencias, publicar guías, tener conversaciones con entusiastas de los viajes y confían plenamente en nuestra plataforma para guiar su próxima aventura.
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
-
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+Web pages resources:
+* https://thepointsparty.com/
+* https://www.travelmassive.com/
+*https://www.travellerspoint.com/
+* https://www.milkandhoneytravels.com/
+* https://www.packupgo.com/
+* https://bigadventures.us/
+ Educative resources:
+* https://www.udemy.com/course/community-building-101/?couponCode=ST6MT42324
+* https://cxl.com/institute/online-course/community-building/
+* https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/
+* https://ocw.mit.edu/courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/
+* https://www.coursera.org/specializations/digital-marketing
+* https://www.coursera.org/learn/wharton-contagious-viral-marketing
+* https://www.coursera.org/learn/start-ux-design-process
+* https://www.coursera.org/learn/ux-design-concept-wireframe
 
 
 #### Necesidad/oportunidad
+El proyecto aborda una necesidad crucial y una oportunidad apasionante en la comunidad de viajeros. La necesidad surge del deseo de los viajeros de compartir sus experiencias y recomendaciones en una plataforma única y accesible. Los viajeros suelen buscar orientación, y existe la oportunidad de crear un espacio en el que puedan intercambiar valiosos puntos de vista y conectar con personas de ideas afines. Este proyecto no sólo satisface la necesidad de un espacio colaborativo de viajes, sino que también abre oportunidades para el intercambio cultural, la creación de redes y el descubrimiento de nuevos destinos. Al fomentar el sentido de comunidad, pretendemos enriquecer las experiencias de viaje y animar a las personas a explorar el mundo con mayor confianza y curiosidad.
 
 #### Motivación de la propuesta
-
-¿ por qué consideras interesante ? 
+La inspiración de nuestro proyecto nace de la convicción de que viajar puede ser un acontecimiento que cambie la vida y fomente la comprensión, la comunicación intercultural y las conexiones. Nuestro objetivo es crear una plataforma comunitaria en la que la gente se sienta inspirada para compartir sus experiencias de viaje, consejos y conocimientos. Al ofrecer un foro para que los viajeros compartan libremente sus experiencias, esperamos animar a otros a descubrir nuevos lugares y culturas. Este proyecto está motivado por el amor a los viajes y la dedicación a crear una red de apoyo que permita a la gente explorar el mundo con una mente abierta y curiosidad.
 
 #### Personas/Usuarios
 (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
+-Entusiastas de los viajes, nómadas digitales, trabajadores a distancia, amantes del intercambio cultural, personas que quieren mudarse a otros países.
+-Influenciadores de viajes, blogueros, fotógrafos.
 
 ### Etapa 2: Prototipar / productos 
 
