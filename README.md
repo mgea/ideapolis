@@ -1,4 +1,4 @@
-  ## (VoyageVenture)  
+  ## VoyageVenture
 
 (Plantilla para la creación de un proyecto en ideapolis)
 
