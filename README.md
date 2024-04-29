@@ -27,7 +27,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Fecha** : 202X
 
-**Medios** (donde se tiene presencia): Instagram, TikTok, Twitter, Pinterest, Facebook, website, reedit
+**Medios** (donde se tiene presencia): Instagram, TikTok, Facebook.
 
 
 *  :octocat: (github url) 
@@ -64,7 +64,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
 **¿Como surge el proyecto?**
-Después de que tres personas con diferentes orígenes y de diferentes países se han reunido alrededor de la misma mesa y han hecho un brainstoming y una sesión de mapa de empatía para poner de relieve las cosas que pueden tener en común, independientemente de las diferencias de sus aspiraciones, la cultura y la mentalidad, una idea bajo el nombre de 'voyage venture' surgió porque los tres nos encanta viajar y hemos sido capaces de distinguir todos los principales obstáculos y temores que enfrentamos al querer elegir un destino de viaje o hacer un plan de viaje, estos principales miedos y obstáculos fueron el impulso para este proyecto, ya que queremos eliminar factores como la falta de conocimiento sobre otros países y culturas y cómo es el destino realmente y qué esperar, todo esto mediante la creación de una comunidad global en línea para servir como un centro de viajes para todas las personas en todo el mundo, animamos a la gente a compartir sus experiencias, publicar guías, tener conversaciones con entusiastas de los viajes y confían plenamente en nuestra plataforma para guiar su próxima aventura.
+Después de que tres personas con diferentes orígenes y de diferentes países se han reunido alrededor de la misma mesa y han hecho un brainstoming y una sesión de mapa de empatía para poner de relieve las cosas que pueden tener en común, independientemente de las diferencias de sus aspiraciones, la cultura y la mentalidad; una idea bajo el nombre de 'voyage venture' surgió porque los tres nos encanta viajar y hemos sido capaces de distinguir todos los principales obstáculos y temores que enfrentamos al querer elegir un destino de viaje o hacer un plan de viaje. Estos principales miedos y obstáculos fueron el impulso para este proyecto, ya que queremos eliminar factores como la falta de conocimiento sobre otros países y culturas y cómo es el destino realmente y qué esperar. Todo esto mediante la creación de una comunidad global en línea para servir como un centro de viajes para todas las personas en todo el mundo. Animamos a la gente a compartir sus experiencias, publicar guías, tener conversaciones con entusiastas de los viajes y confían plenamente en nuestra plataforma para guiar su próxima aventura.
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 Web pages resources:
@@ -95,7 +95,7 @@ La inspiración de nuestro proyecto nace de la convicción de que viajar puede s
 (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
 -Entusiastas de los viajes, nómadas digitales, trabajadores a distancia, amantes del intercambio cultural, personas que quieren mudarse a otros países.
--Influenciadores de viajes, blogueros, fotógrafos.
+-Influencers de viajes, blogueros, fotógrafos.
 
 ### Etapa 2: Prototipar / productos 
 
@@ -105,9 +105,7 @@ Productos de realidad virtual ( Wonda )- Squarespace- Redes sociales ( facebook
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
 * redes sociales (...)
-* ( facebook, instagram, TikTok.)
-
-* publicidad: banner (... ) 
+* ( facebook, instagram, TikTok.) 
 
 * ...
 
@@ -115,11 +113,8 @@ Productos de realidad virtual ( Wonda )- Squarespace- Redes sociales ( facebook
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-#### Test con usuarios (...) 
 -	Test con usuarios: durante las sesiones de clase realizamos algunas pruebas con nuestros compañeros, utilizamos test a usuarios potenciales para conocer sus opiniones sobre el uso de la página web que creamos para nuestra comunidad y obtener retroalimentación sobre su experiencia en Wonda de nuestra opción de viaje a través de realidad virtual. Asimismo, en Wonda insertamos una encuesta con este fin.
 -	Uso del Benchmarking: para comparar nuestro proyecto con otros similares ya implementados en Internet, evaluando así nuestra posición en el mercado y nuestras áreas de mejora.
-
-
 
 
 #### Preguntas frecuentes
