@@ -25,7 +25,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 202X
+**Fecha** : 2024
 
 **Medios** (donde se tiene presencia): Instagram, TikTok, Facebook.
 
@@ -61,8 +61,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
-
+Actividades realizadas mediante Milanote: https://app.milanote.com/1RXsio1HA0O89P/voyage-venture?p=j6C21EtDovm
 **¿Como surge el proyecto?**
 Después de que tres personas con diferentes orígenes y de diferentes países se han reunido alrededor de la misma mesa y han hecho un brainstoming y una sesión de mapa de empatía para poner de relieve las cosas que pueden tener en común, independientemente de las diferencias de sus aspiraciones, la cultura y la mentalidad; una idea bajo el nombre de 'voyage venture' surgió porque los tres nos encanta viajar y hemos sido capaces de distinguir todos los principales obstáculos y temores que enfrentamos al querer elegir un destino de viaje o hacer un plan de viaje. Estos principales miedos y obstáculos fueron el impulso para este proyecto, ya que queremos eliminar factores como la falta de conocimiento sobre otros países y culturas y cómo es el destino realmente y qué esperar. Todo esto mediante la creación de una comunidad global en línea para servir como un centro de viajes para todas las personas en todo el mundo. Animamos a la gente a compartir sus experiencias, publicar guías, tener conversaciones con entusiastas de los viajes y confían plenamente en nuestra plataforma para guiar su próxima aventura.
 
@@ -92,8 +91,7 @@ El proyecto aborda una necesidad crucial y una oportunidad apasionante en la com
 La inspiración de nuestro proyecto nace de la convicción de que viajar puede ser un acontecimiento que cambie la vida y fomente la comprensión, la comunicación intercultural y las conexiones. Nuestro objetivo es crear una plataforma comunitaria en la que la gente se sienta inspirada para compartir sus experiencias de viaje, consejos y conocimientos. Al ofrecer un foro para que los viajeros compartan libremente sus experiencias, esperamos animar a otros a descubrir nuevos lugares y culturas. Este proyecto está motivado por el amor a los viajes y la dedicación a crear una red de apoyo que permita a la gente explorar el mundo con una mente abierta y curiosidad.
 
 #### Personas/Usuarios
-(...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
-
+Publico objetivo:
 -Entusiastas de los viajes, nómadas digitales, trabajadores a distancia, amantes del intercambio cultural, personas que quieren mudarse a otros países.
 -Influencers de viajes, blogueros, fotógrafos.
 
@@ -110,9 +108,6 @@ Productos de realidad virtual ( Wonda )- Squarespace- Redes sociales ( facebook
 * ...
 
 ### Etapa 3: Técnicas de evaluación utilizadas
-
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
-
 -	Test con usuarios: durante las sesiones de clase realizamos algunas pruebas con nuestros compañeros, utilizamos test a usuarios potenciales para conocer sus opiniones sobre el uso de la página web que creamos para nuestra comunidad y obtener retroalimentación sobre su experiencia en Wonda de nuestra opción de viaje a través de realidad virtual. Asimismo, en Wonda insertamos una encuesta con este fin.
 -	Uso del Benchmarking: para comparar nuestro proyecto con otros similares ya implementados en Internet, evaluando así nuestra posición en el mercado y nuestras áreas de mejora.
 
@@ -149,15 +144,14 @@ Como ventaja de esta comunidad podemos decir que es administrada por personas de
 -	Impacto Cultural y Educativo: considerar el impacto cultural del proyecto, especialmente si está cambiando la forma en que las personas aprenden sobre diferentes culturas y lugares. Esto podría medirse a través de testimonios de usuarios y estudios de caso.
 
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… )
-* Se han identificado algunos factores durante la planificación que pudieran suponer retos; como por ejemplo: el lograr que la comunidad abarque un ámbito internacional, que los usuarios tengan el nivel de interacción que se espera para que la plataforma sea dinámica, y lograr el objetivo de que entre todos los miembros se cree y comparta el contenido principal objeto de la misma.  
+  Se han identificado algunos factores durante la planificación que pudieran suponer retos; como por ejemplo: el lograr que la comunidad abarque un ámbito internacional, que los usuarios tengan el nivel de interacción que se espera para que la plataforma sea dinámica, y lograr el objetivo de que entre todos los miembros se cree y comparta el contenido principal objeto de la misma.  
 Asimismo, supuso un problema encontrar la plataforma adecuada para alojar nuestra comunidad y que la misma agrupase todos los productos que queremos ofrecer: storytelling, contenido multimedia, chats, podcast y RA. Teniendo en cuenta nuestras formaciones profesionales, habilidades técnicas y tiempo del que dispusimos para el desarrollo de este proyecto, decidimos desarrollar una landing page para la presentación de la comunidad y un viaje de realidad virtual y galería de imágenes a través de Wonda.
 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
 * Propuestas de mejora:
 Voyage Venture es un proyecto que aún está en su etapa inicial de desarrollo. No obstante, creemos en su potencial y consideramos que sería bueno continuar invirtiendo tiempo en trabajar en él. 
 Es conocido que la cantidad de personas viajeras alrededor del mundo es alta, es un factor objetivo. A su vez, también se conoce que las personas sienten inseguridades y miedos a la hora de decidir un destino y emprender un viaje. Por ello, la idea de nuestra comunidad es diluir esos miedos y motivar a las personas a viajar y conocer el mundo.
 
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Posible interés del proyecto
 * Como trabajo futuro, para lograr el acabado de este proyecto, más allá del landing page que hemos diseñado para presentar esta comunidad, se podría implementar la misma en Discord. Esto permitiría englobar en una sola plataforma la creación de contenidos multimedia, podcast y chats. Estaría apoyada por Wonda con la Realidad Aumentada y con las redes sociales que se han planteado. De esta forma quedarían implementados todos los productos que concebimos durante la fase de ideación.
 Profesionales del turismo, psicólogos, especialistas en marketing, desarrolladores informáticos, podrían estar interesados en trabajar en este proyecto por el objeto social que defiende y por la necesidad de continuar el trabajo en Discord para alojar la comunidad, en otra herramienta más potente de RA, y en redes sociales para apoyar su estrategia de comunicación y promoción del turismo. 
 
