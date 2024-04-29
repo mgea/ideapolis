@@ -100,10 +100,12 @@ La inspiración de nuestro proyecto nace de la convicción de que viajar puede s
 ### Etapa 2: Prototipar / productos 
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+Productos de realidad virtual ( Wonda )- Squarespace- Redes sociales ( facebook, instagram, twitter.)
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-* redes sociales (...) 
+* redes sociales (...)
+* ( facebook, instagram, TikTok.)
 
 * publicidad: banner (... ) 
 
@@ -114,20 +116,56 @@ La inspiración de nuestro proyecto nace de la convicción de que viajar puede s
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
 #### Test con usuarios (...) 
+-	Test con usuarios: durante las sesiones de clase realizamos algunas pruebas con nuestros compañeros, utilizamos test a usuarios potenciales para conocer sus opiniones sobre el uso de la página web que creamos para nuestra comunidad y obtener retroalimentación sobre su experiencia en Wonda de nuestra opción de viaje a través de realidad virtual. Asimismo, en Wonda insertamos una encuesta con este fin.
+-	Uso del Benchmarking: para comparar nuestro proyecto con otros similares ya implementados en Internet, evaluando así nuestra posición en el mercado y nuestras áreas de mejora.
+
 
 
 
 #### Preguntas frecuentes
+1.	¿Qué tipo de contenido puedo compartir en la comunidad?
+Puedes publicar contenido como fotos, videos, relatos de viajes, y cualquier guía sobre tu país o los países que has visitado para ayudar a los demás usuarios y animarlos a conocer nuevos destinos.
+2.	¿Cómo funciona la realidad aumentada en la plataforma?
+Para acceder a nuestra experiencia de realidad aumentada puedes hacerlo a través del journey o la galería de imágenes que ponemos a disposición en Wonda a través del enlace: https://spaces.wondavr.com/embed/?course=727818f0-0313-11ef-86aa-db614060436a 
+3.	¿Cómo puedo participar en los podcasts o sugerir temas?
+Los podcast están a cargo de los fundadores de la comunidad. Si tienes interés en ser invitado o sugerir un tema puedes enviar un mensaje al DM del Instagram de nuestra comunidad y lo atenderemos a la brevedad.
+4.	¿Hay alguna cuota o costo por unirse a la comunidad?
+No, es totalmente gratuita y sin ánimo de lucro. Está totalmente prohibido crear contenido con este fin.
+5.	¿Cómo puedo reportar un problema o sugerir una mejora?
+En nuestra página web encontrarás un formulario.
+6.	¿Cómo puedo cancelar mi cuenta?
+Puedes eliminar tu cuenta en cualquier momento desde tu usuario, tu información y el contenido que selecciones quedará totalmente eliminado tras la cancelación.
 
 
 
 ### Conclusiones y trabajo futuro
+Después de realizar este trabajo en equipo, podemos concluir que hemos aprendido diferentes herramientas de Desing Thinking para intentar materializar o llevar a cabo una idea.
+Estos espacios como Git Hub, Milanote, Wonda y técnicas desarrolladas en clase; nos han servido para trabajar de manera tanto individual como colaborativa llegando a obtener como resultado un proyecto de comunidad virtual que puede ser útil para todas las personas de cualquier geografía que les guste compartir sus experiencias y deseen viajar o seguir viajando.
+Como ventaja de esta comunidad podemos decir que es administrada por personas de diferentes culturas, lo cual va en sintonía con la idea del proyecto. A su vez, hemos intentado implementar la experiencia de viaje a través de realidad virtual para aquellas personas que por el motivo que fuera no puedan emprender un viaje, lo cual consideramos que constituye un elemento diferenciador de nuestra comunidad respecto a las demás.
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+
+* Grado de consecución del proyecto
+  Para cuantificar el éxito de Voyage Venture hemos identificado algunas técnicas que podremos usar para evaluar nuestra comunidad una vez lanzada:
+-	Pruebas técnicas para asegurar que la plataforma funciona bien, que puede admitir un número grande de usuarios sin que eso signifique que decaiga la UX, y prueba de que la plataforma es responsive. 
+-	Tasa de crecimiento de la comunidad: monitoreo de la cantidad de usuarios activos y nuevos registros
+-	Engagement: mediremos la interacción de los usuarios en nuestra plataforma a través de la cuantificación del número de vistas, comentarios, reproducciones, frecuencia con la que se publica contenido, etc… Esto nos permitirá conocer si se está cumpliendo el objetivo del proyecto de superar miedos, incentivar a conocer y explorar, intercambiar culturas.
+-	Aceptación de la tecnología de RA: cuantificar cuántas personas están haciendo uso de esta función que ofrecemos y la opinión que tienen posterior a su uso.
+-	Impacto Cultural y Educativo: considerar el impacto cultural del proyecto, especialmente si está cambiando la forma en que las personas aprenden sobre diferentes culturas y lugares. Esto podría medirse a través de testimonios de usuarios y estudios de caso.
+
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… )
+* Se han identificado algunos factores durante la planificación que pudieran suponer retos; como por ejemplo: el lograr que la comunidad abarque un ámbito internacional, que los usuarios tengan el nivel de interacción que se espera para que la plataforma sea dinámica, y lograr el objetivo de que entre todos los miembros se cree y comparta el contenido principal objeto de la misma.  
+Asimismo, supuso un problema encontrar la plataforma adecuada para alojar nuestra comunidad y que la misma agrupase todos los productos que queremos ofrecer: storytelling, contenido multimedia, chats, podcast y RA. Teniendo en cuenta nuestras formaciones profesionales, habilidades técnicas y tiempo del que dispusimos para el desarrollo de este proyecto, decidimos desarrollar una landing page para la presentación de la comunidad y un viaje de realidad virtual y galería de imágenes a través de Wonda.
+
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
+* Propuestas de mejora:
+Voyage Venture es un proyecto que aún está en su etapa inicial de desarrollo. No obstante, creemos en su potencial y consideramos que sería bueno continuar invirtiendo tiempo en trabajar en él. 
+Es conocido que la cantidad de personas viajeras alrededor del mundo es alta, es un factor objetivo. A su vez, también se conoce que las personas sienten inseguridades y miedos a la hora de decidir un destino y emprender un viaje. Por ello, la idea de nuestra comunidad es diluir esos miedos y motivar a las personas a viajar y conocer el mundo.
+
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Como trabajo futuro, para lograr el acabado de este proyecto, más allá del landing page que hemos diseñado para presentar esta comunidad, se podría implementar la misma en Discord. Esto permitiría englobar en una sola plataforma la creación de contenidos multimedia, podcast y chats. Estaría apoyada por Wonda con la Realidad Aumentada y con las redes sociales que se han planteado. De esta forma quedarían implementados todos los productos que concebimos durante la fase de ideación.
+Profesionales del turismo, psicólogos, especialistas en marketing, desarrolladores informáticos, podrían estar interesados en trabajar en este proyecto por el objeto social que defiende y por la necesidad de continuar el trabajo en Discord para alojar la comunidad, en otra herramienta más potente de RA, y en redes sociales para apoyar su estrategia de comunicación y promoción del turismo. 
+
 
 
 Referencias y recursos: 
