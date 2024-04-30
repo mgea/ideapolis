@@ -16,7 +16,7 @@ Espacio colaborativo y de publicación de proyectos de Inteligencia Colectiva y 
 
 2024 - [Viajar con lo justo](https://github.com/SebaNBA/ideapolis)
 
-2024 - [Creando Huellas](https://github.com/SebaNBA/ideapolis)
+2024 - [Creando Huellas](https://github.com/yuliangzb/Creando-Huellas)
 
 
 ## Proyectos previos: 
