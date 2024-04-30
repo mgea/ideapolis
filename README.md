@@ -12,7 +12,10 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Titulo** : ___VoyageVenture____
 
-**Autor(es)** ___Ahlam Haya_, Melanie  Aguilera, ALvaro Vasquez__________
+**Autor(es)** 
+* Ahlam Haya,
+* Melanie  Aguilera,
+* ALvaro Vasquez
 
 **Resumen** : ____Voyage Venture es una comunidad online dinámica diseñada para inspirar y conectar a viajeros de todo el mundo. En este espacio, los miembros comparten experiencias personales, descubrimientos culturales y consejos prácticos a través de storytelling, contenido multimedia y podcasts. La plataforma fomenta la interacción mediante chats en tiempo real y foros, rompiendo barreras y miedos hacia lo desconocido. Únete a Voyage Venture para explorar, aprender y crecer en un entorno vibrante y multicultural._Pretendemos aportar innovación a este ambiente aplicando la tecnología de realidad virtual para ofrecer experiencias únicas y sorprendentes a nuestros usuarios.____
 
