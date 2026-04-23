@@ -8,6 +8,10 @@ Espacio colaborativo y de publicación de proyectos de Inteligencia Colectiva y 
 ## Proyectos actuales: 
 
 
+
+
+## Proyectos previos: 
+
 2024 - [Sin Tapujos](https://github.com/Hitacelia/sintapujos)
 
 2024 - [VoyageVenture](https://github.com/Ahlamhaya/ideapolis)
@@ -15,9 +19,6 @@ Espacio colaborativo y de publicación de proyectos de Inteligencia Colectiva y 
 2024 - [Viajar con lo justo](https://github.com/SebaNBA/ideapolis)
 
 2024 - [Creando Huellas](https://github.com/yuliangzb/Creando-Huellas)
-
-
-## Proyectos previos: 
 
 2023 - [Origenes Diversos](https://github.com/htornel/origenes-diversos)
 
