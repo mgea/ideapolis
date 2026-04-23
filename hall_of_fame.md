@@ -1,5 +1,5 @@
-# ideapolis
-
+## ideapolis::Sala de la Fama
+ 
 Espacio colaborativo y de publicación de proyectos de Inteligencia Colectiva y Formación de en la Empresa 
 
 [<- Volver menú](README.md)
