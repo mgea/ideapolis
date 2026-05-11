@@ -67,10 +67,15 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 * @LadyDistopia (link) ...¿ por qué ?
 * (...)
-* 
+* identificar comunidades similares en otras rrss..
+
 
 
 #### Necesidad/oportunidad
+
+
+> dafo
+
 
 #### Motivación de la propuesta
 
@@ -84,17 +89,23 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual **moodboard**
+
+     (Portada / Diseño de Interfaz) y herramienta usada 
 
 * redes sociales (...) 
 
-* publicidad: banner (... ) 
+* publicidad/promoción: **landing page** 
 
-* ...
+* proyecto: grado de conclusión
+
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
+
+
+
 
 #### Test con usuarios (...) 
 
