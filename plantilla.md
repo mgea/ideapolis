@@ -124,15 +124,6 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
 
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de mejora
-
-(...)
-
-
 
 
 
