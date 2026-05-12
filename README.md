@@ -10,6 +10,8 @@ La wiki https://github.com/mgea/ideapolis/wiki es una parte de este repositorio 
 - [Apuntes contenidos](https://github.com/mgea/ideapolis/wiki) 
 
 
+- Plantilla de proyecto -> https://github.com/mgea/ideapolis_template 
+
 
 ### Espacio de proyectos: 
 
