@@ -6,7 +6,7 @@ La wiki https://github.com/mgea/ideapolis/wiki es una parte de este repositorio 
 
 ## Contenidos: 
 
-![img/sesion3_mini.png]
+![creacion](img/sesion3_mini.png)
 - [Apuntes contenidos](https://github.com/mgea/ideapolis/wiki) 
 
 
